@@ -1,4 +1,4 @@
-# immersive-web-design
+# ui-design
 
 This repository contains the `immersive-web-design.skill` package and its extracted source folder for easy browsing on GitHub.
 
